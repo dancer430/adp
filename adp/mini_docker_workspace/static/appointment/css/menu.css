@@ -1,0 +1,76 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: forestgreen;
+}
+.header {
+    margin-top: 50px;
+    height: 100px;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 30px;
+    /*background-color: lightgrey;*/
+}
+.header .system-title {
+    font-family: 华文行楷;
+    font-size: 70px;
+    display: flex;  justify-content: center;  align-items: center;
+}
+.main_area {
+    margin-top: 50px;
+    width: 70%;
+    margin-left: 15%;
+    height: 600px;
+    border-radius: 50px;
+    /*background-color: whitesmoke;*/
+    padding: 20px;
+    font-family: "幼圆", Arial, sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+.main_area .interface_up {
+    height: 280px;
+    /*border: red solid 10px;*/
+    /*margin-top: 5%;*/
+    width: 94%;
+    margin-left: 3%;
+}
+.main_area .interface_up .interface {
+    height: 260px;
+    border: black solid 10px;
+    /*margin-top: 5%;*/
+    width: 47%;
+    margin-left: 10px;
+    float: left;
+    border-radius: 50px;
+    /*text-align: center;*/
+    display: flex;  justify-content: center;  align-items: center;
+    cursor: pointer;
+    /*vertical-align: middle;*/
+}
+.main_area .interface_down {
+    height: 280px;
+    /*border: red solid 10px;*/
+    /*margin-top: 5%;*/
+    width: 94%;
+    margin-left: 3%;
+    margin-top: 20px;
+}
+.main_area .interface_down .interface {
+    height: 260px;
+    border: black solid 10px;
+    /*margin-top: 5%;*/
+    width: 47%;
+    margin-left: 10px;
+    float: left;
+    border-radius: 50px;
+    /*text-align: center;*/
+    display: flex;  justify-content: center;  align-items: center;
+    cursor: pointer;
+    /*vertical-align: middle;*/
+}
+.footer {
+	margin-top:2%;
+	text-align:center;
+	font-weight:100;
+	clear: both;
+}

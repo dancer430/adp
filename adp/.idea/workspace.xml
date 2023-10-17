@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df418230-4789-4a1a-9686-555e8cf3ca95" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/.idea/misc.xml" beforeDir="false" afterPath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/.idea/myweb.iml" beforeDir="false" afterPath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/.idea/myweb.iml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/admin.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/apps.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/models.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/css/style.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/4.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/5.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/6.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/about2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/banner1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/banner2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/banner3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/banner4.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/t1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/t2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/t3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/te1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/te2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/te3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/team1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/static/images/team2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/about.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/contact.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/css/style.css" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/4.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/5.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/6.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/about2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/banner1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/banner2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/banner3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/banner4.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/t1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/t2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/t3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/te1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/te2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/te3.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/team1.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/images/team2.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/index.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/services.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/templates/single.html" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/tests.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/urls.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/my_work/views.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/myweb/settings.py" beforeDir="false" afterPath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/myweb/settings.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/myweb/urls.py" beforeDir="false" afterPath="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web/myweb/myweb/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web" />
+  </component>
+  <component name="ProjectId" id="2UWbuIfSIz18hBPoAMzFc5wIUZ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/WeChat Files/wxid_afqzm4zq6qen21/FileStorage/File/2023-08/my_web" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\qiurui_path\mmp\mini_docker_workspace\apps" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mmp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\qiurui_path\mmp\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df418230-4789-4a1a-9686-555e8cf3ca95" name="Default Changelist" comment="" />
+      <created>1693058504406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693058504406</updated>
+      <workItem from="1693058506801" duration="7167000" />
+      <workItem from="1693397138748" duration="5405000" />
+      <workItem from="1693486586787" duration="1494000" />
+      <workItem from="1697030366638" duration="5597000" />
+      <workItem from="1697114304921" duration="6861000" />
+      <workItem from="1697371922007" duration="649000" />
+      <workItem from="1697459538178" duration="4387000" />
+      <workItem from="1697547267282" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
